@@ -5,10 +5,9 @@
 # Description
 This is a simple static website hosted on AWS S3 bucket. The website is created using HTML and CSS. The website is hosted on AWS S3 bucket and the endpoint URL is used to access the website.
 # Prerequisites
-- AWS account
-- Clone the repository 
-  ``git clone julienawonga/static-website-on-aws-s3
-    ``
+- AWS account, you can get free tier account [here](https://aws.amazon.com/free/)
+- Clone the repository ``git clone https://github.com/julienawonga/static-website-on-aws-s3.git
+  ``
 
 # Steps
 ## Create S3 bucket
